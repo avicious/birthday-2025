@@ -8,7 +8,7 @@ html,
 body {
   max-width: 100vw;
   overflow-x: hidden;
-  background-color: #f3cad3;
+  background-color: #ffdad0;
 }
 
 .container {
@@ -21,7 +21,6 @@ body {
 .square {
   width: 80vw;
   max-width: 300px;
-  border-radius: 20px;
 }
 
 .media {

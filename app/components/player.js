@@ -37,7 +37,7 @@ const Player = () => {
   return (
     <>
       <div className="container">
-        <img className="square" src="/birthday.webp" />
+        <img className="square" src="/anni.png" />
         <div className="media">
           <img onClick={onClickHandler} src={`/${image}.png`} />
           <audio ref={audioRef} onEnded={onEndHandler} src="/audio.mp3" />
